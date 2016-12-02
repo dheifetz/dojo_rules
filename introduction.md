@@ -1,2 +1,2 @@
-I love Ruby and JavaScript!
-I add another line.
+* I love Ruby and JavaScript!
+* I add another line.
